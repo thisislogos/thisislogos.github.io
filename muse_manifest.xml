@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.thisislogos.com" resolutions="1x" timestamp="1550470502853">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.thisislogos.com" resolutions="1x" timestamp="1550501208076">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="531178766" ref="index"/>
-    <file name="nomq_index.css" crc="36632372" ref="index"/>
+    <file name="index.css" crc="179563693" ref="index"/>
+    <file name="nomq_index.css" crc="381353840" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="-28-preloader.svg" crc="3952127654" seo="true" mt="1522941756000"/>
@@ -30,5 +30,5 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="lógos--a-brand-identity-house-favicon.ico" crc="4158489934" ref="index"/>
   </folder>
-  <file name="index.html" crc="365714569" seo="true" mt="1550470483199" redirect="true"/>
+  <file name="index.html" crc="293677158" seo="true" mt="1550501196563" redirect="true"/>
 </manifest>
