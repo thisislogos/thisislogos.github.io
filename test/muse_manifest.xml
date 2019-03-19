@@ -1,32 +1,32 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1553007329388">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1553008207282">
   <folder name="css">
-    <file name="site_global.css" crc="3984428993"/>
+    <file name="site_global.css" crc="346377691"/>
     <file name="master_master-home.css" crc="3945533214" ref="index"/>
     <file name="nomq_preview_master_master-home.css" crc="399769353" ref="index"/>
     <file name="master_master-contact.css" crc="199064247" ref="connect"/>
     <file name="nomq_preview_master_master-contact.css" crc="185077520" ref="connect"/>
-    <file name="master_master.css" crc="4110471525" ref="slapshop:about:purnellhines:work:areteequity:awesomevii"/>
-    <file name="nomq_preview_master_master.css" crc="3904019372" ref="slapshop:about:purnellhines:work:areteequity:awesomevii"/>
+    <file name="master_master.css" crc="3803833521" ref="slapshop:about:purnellhines:work:areteequity:awesomevii"/>
+    <file name="nomq_preview_master_master.css" crc="4098957783" ref="slapshop:about:purnellhines:work:areteequity:awesomevii"/>
     <file name="connect.css" crc="131463331" ref="connect"/>
     <file name="nomq_connect.css" crc="398587604" ref="connect"/>
     <file name="iefonts_connect.css" crc="3824530138" ref="connect"/>
-    <file name="slapshop.css" crc="3953756058" ref="slapshop"/>
-    <file name="nomq_slapshop.css" crc="533451641" ref="slapshop"/>
+    <file name="slapshop.css" crc="480710613" ref="slapshop"/>
+    <file name="nomq_slapshop.css" crc="10070574" ref="slapshop"/>
     <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
-    <file name="about.css" crc="397565498" ref="about"/>
-    <file name="nomq_about.css" crc="351184464" ref="about"/>
+    <file name="about.css" crc="3943982292" ref="about"/>
+    <file name="nomq_about.css" crc="4011478026" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="purnellhines.css" crc="500137945" ref="purnellhines"/>
-    <file name="nomq_purnellhines.css" crc="4258552921" ref="purnellhines"/>
+    <file name="purnellhines.css" crc="73004685" ref="purnellhines"/>
+    <file name="nomq_purnellhines.css" crc="4050579027" ref="purnellhines"/>
     <file name="iefonts_purnellhines.css" crc="3824530138" ref="purnellhines"/>
-    <file name="work.css" crc="106088831" ref="work"/>
-    <file name="nomq_work.css" crc="3858612266" ref="work"/>
+    <file name="work.css" crc="4183301168" ref="work"/>
+    <file name="nomq_work.css" crc="397997735" ref="work"/>
     <file name="iefonts_work.css" crc="3824530138" ref="work"/>
-    <file name="areteequity.css" crc="186877441" ref="areteequity"/>
-    <file name="nomq_areteequity.css" crc="20617344" ref="areteequity"/>
+    <file name="areteequity.css" crc="75476962" ref="areteequity"/>
+    <file name="nomq_areteequity.css" crc="34278892" ref="areteequity"/>
     <file name="iefonts_areteequity.css" crc="3824530138" ref="areteequity"/>
-    <file name="awesomevii.css" crc="3909337452" ref="awesomevii"/>
-    <file name="nomq_awesomevii.css" crc="132506139" ref="awesomevii"/>
+    <file name="awesomevii.css" crc="4261882813" ref="awesomevii"/>
+    <file name="nomq_awesomevii.css" crc="371446275" ref="awesomevii"/>
     <file name="iefonts_awesomevii.css" crc="3824530138" ref="awesomevii"/>
     <file name="index.css" crc="4124576076" ref="index"/>
     <file name="nomq_index.css" crc="3921932802" ref="index"/>
@@ -51,60 +51,60 @@
     <file name="require.js" crc="7928878" ref="index:work:awesomevii:about:purnellhines:areteequity:slapshop:connect"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="230785578" ref="index"/>
+    <file name="favicon.ico" crc="230785578" ref="index:work"/>
     <file name="pasted-svg-292x130.svg" crc="77924827" seo="true" ref="index:work:awesomevii:about:purnellhines:areteequity:slapshop:connect">
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
       <caption webpage="areteequity" alt=""/>
       <caption webpage="areteequity" alt=""/>
       <caption webpage="areteequity" alt=""/>
       <caption webpage="areteequity" alt=""/>
       <caption webpage="areteequity" alt=""/>
       <caption webpage="areteequity" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
     </file>
-    <file name="pasted svg 292x130_poster_.png" crc="3772264425" ref="index"/>
+    <file name="pasted svg 292x130_poster_.png" crc="3772264425" ref="index:work"/>
     <file name="blank.gif" crc="4208392903" ref="index:work:awesomevii:about:purnellhines:areteequity:slapshop:connect"/>
     <file name="01-avii824x464.jpg" crc="139434714" seo="true" ref="work">
       <caption webpage="work" alt=""/>
@@ -635,11 +635,11 @@
     </file>
   </folder>
   <file name="index.html" crc="3983242813" seo="true" mt="1553007279208" redirect="true"/>
-  <file name="work.html" crc="3994651300" seo="true" mt="1553006972413" redirect="true"/>
-  <file name="awesomevii.html" crc="3787735067" seo="true" mt="1553003122703" redirect="true"/>
-  <file name="about.html" crc="502825040" seo="true" mt="1553003122703" redirect="true"/>
-  <file name="purnellhines.html" crc="290186721" seo="true" mt="1553003122703" redirect="true"/>
-  <file name="areteequity.html" crc="78384304" seo="true" mt="1553003122703" redirect="true"/>
-  <file name="slapshop.html" crc="4024979409" seo="true" mt="1553003122703" redirect="true"/>
+  <file name="work.html" crc="196793320" seo="true" mt="1553008153106" redirect="true"/>
+  <file name="awesomevii.html" crc="95217625" seo="true" mt="1553008088266" redirect="true"/>
+  <file name="about.html" crc="4226550575" seo="true" mt="1553008088266" redirect="true"/>
+  <file name="purnellhines.html" crc="149060087" seo="true" mt="1553008088266" redirect="true"/>
+  <file name="areteequity.html" crc="270230818" seo="true" mt="1553008088266" redirect="true"/>
+  <file name="slapshop.html" crc="308084618" seo="true" mt="1553008088266" redirect="true"/>
   <file name="connect.html" crc="536274950" seo="true" mt="1553003630848" redirect="true"/>
 </manifest>
