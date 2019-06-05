@@ -1,37 +1,37 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1559520880260">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1559726450159">
   <folder name="css">
-    <file name="site_global.css" crc="346377691"/>
+    <file name="site_global.css" crc="3984428993"/>
+    <file name="master_master.css" crc="271000532" ref="areteequity:awesomevii:techgeek:slapshop:about:purnellhines:index:logos"/>
+    <file name="nomq_preview_master_master.css" crc="4154203396" ref="areteequity:awesomevii:techgeek:slapshop:about:purnellhines:index:logos"/>
     <file name="master_master-contact.css" crc="4200711823" ref="connect"/>
     <file name="nomq_preview_master_master-contact.css" crc="4044293227" ref="connect"/>
-    <file name="master_master.css" crc="3918588722" ref="about:index:logos:purnellhines:awesomevii:techgeek:slapshop:areteequity"/>
-    <file name="nomq_preview_master_master.css" crc="143057690" ref="about:index:logos:purnellhines:awesomevii:techgeek:slapshop:areteequity"/>
-    <file name="about.css" crc="3839342150" ref="about"/>
-    <file name="nomq_about.css" crc="202640263" ref="about"/>
-    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="index.css" crc="425900837" ref="index"/>
-    <file name="nomq_index.css" crc="3910581981" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="logos.css" crc="196425967" ref="logos"/>
-    <file name="nomq_logos.css" crc="112691656" ref="logos"/>
-    <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
-    <file name="purnellhines.css" crc="283814386" ref="purnellhines"/>
-    <file name="nomq_purnellhines.css" crc="4051152837" ref="purnellhines"/>
-    <file name="iefonts_purnellhines.css" crc="3824530138" ref="purnellhines"/>
-    <file name="awesomevii.css" crc="4151440253" ref="awesomevii"/>
-    <file name="nomq_awesomevii.css" crc="4159033612" ref="awesomevii"/>
-    <file name="iefonts_awesomevii.css" crc="3824530138" ref="awesomevii"/>
-    <file name="connect.css" crc="4095372154" ref="connect"/>
-    <file name="nomq_connect.css" crc="3803875159" ref="connect"/>
-    <file name="iefonts_connect.css" crc="3824530138" ref="connect"/>
-    <file name="techgeek.css" crc="4259539568" ref="techgeek"/>
-    <file name="nomq_techgeek.css" crc="394686950" ref="techgeek"/>
-    <file name="iefonts_techgeek.css" crc="3824530138" ref="techgeek"/>
-    <file name="slapshop.css" crc="186922028" ref="slapshop"/>
-    <file name="nomq_slapshop.css" crc="3932350161" ref="slapshop"/>
-    <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
-    <file name="areteequity.css" crc="288663467" ref="areteequity"/>
-    <file name="nomq_areteequity.css" crc="4237091472" ref="areteequity"/>
+    <file name="areteequity.css" crc="4046658564" ref="areteequity"/>
+    <file name="nomq_areteequity.css" crc="4049490080" ref="areteequity"/>
     <file name="iefonts_areteequity.css" crc="3824530138" ref="areteequity"/>
+    <file name="awesomevii.css" crc="4107371174" ref="awesomevii"/>
+    <file name="nomq_awesomevii.css" crc="487196" ref="awesomevii"/>
+    <file name="iefonts_awesomevii.css" crc="3824530138" ref="awesomevii"/>
+    <file name="techgeek.css" crc="186182782" ref="techgeek"/>
+    <file name="nomq_techgeek.css" crc="3844049369" ref="techgeek"/>
+    <file name="iefonts_techgeek.css" crc="3824530138" ref="techgeek"/>
+    <file name="slapshop.css" crc="34794660" ref="slapshop"/>
+    <file name="nomq_slapshop.css" crc="4212308058" ref="slapshop"/>
+    <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
+    <file name="about.css" crc="4131316405" ref="about"/>
+    <file name="nomq_about.css" crc="298226206" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="connect.css" crc="85472631" ref="connect"/>
+    <file name="nomq_connect.css" crc="212823157" ref="connect"/>
+    <file name="iefonts_connect.css" crc="3824530138" ref="connect"/>
+    <file name="purnellhines.css" crc="4276822575" ref="purnellhines"/>
+    <file name="nomq_purnellhines.css" crc="3978801707" ref="purnellhines"/>
+    <file name="iefonts_purnellhines.css" crc="3824530138" ref="purnellhines"/>
+    <file name="index.css" crc="3776048495" ref="index"/>
+    <file name="nomq_index.css" crc="4225708816" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="logos.css" crc="4161770438" ref="logos"/>
+    <file name="nomq_logos.css" crc="409133714" ref="logos"/>
+    <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
   </folder>
   <folder name="assets">
     <file name="-28-preloader.svg" crc="3952127654" seo="true" mt="1522941756000"/>
@@ -56,55 +56,30 @@
   <folder name="images">
     <file name="favicon.ico" crc="230785578" ref="index"/>
     <file name="pasted-svg-292x130.svg" crc="77924827" seo="true" ref="index:awesomevii:about:purnellhines:areteequity:slapshop:connect:logos:techgeek">
-      <caption webpage="areteequity" alt=""/>
-      <caption webpage="areteequity" alt=""/>
-      <caption webpage="areteequity" alt=""/>
-      <caption webpage="areteequity" alt=""/>
-      <caption webpage="areteequity" alt=""/>
-      <caption webpage="areteequity" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
+      <caption webpage="areteequity" alt=""/>
+      <caption webpage="areteequity" alt=""/>
+      <caption webpage="areteequity" alt=""/>
+      <caption webpage="areteequity" alt=""/>
+      <caption webpage="areteequity" alt=""/>
+      <caption webpage="areteequity" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -112,6 +87,31 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
     </file>
     <file name="pasted svg 292x130_poster_.png" crc="3772264425" ref="index"/>
     <file name="thumb-01825x464.jpg" crc="4235396378" seo="true" ref="index">
@@ -563,10 +563,10 @@
     <file name="hero-ph1680x840.jpg" crc="117659719" seo="true" ref="purnellhines">
       <caption webpage="purnellhines" alt=""/>
     </file>
-    <file name="08-ph1275x717.jpg" crc="354859305" seo="true" ref="purnellhines">
+    <file name="08-ph1261x709.jpg" crc="3962330784" seo="true" ref="purnellhines">
       <caption webpage="purnellhines" alt=""/>
     </file>
-    <file name="09-ph1275x715.jpg" crc="532559832" seo="true" ref="purnellhines">
+    <file name="09-ph1262x708.jpg" crc="3888117117" seo="true" ref="purnellhines">
       <caption webpage="purnellhines" alt=""/>
     </file>
     <file name="04-ph1262x710.jpg" crc="423088807" seo="true" ref="purnellhines">
@@ -593,10 +593,10 @@
     <file name="hero-ph1020x510.jpg" crc="4274203372" seo="true" ref="purnellhines">
       <caption webpage="purnellhines" alt=""/>
     </file>
-    <file name="08-ph843x474.jpg" crc="4179737552" seo="true" ref="purnellhines">
+    <file name="08-ph.jpg" crc="4179737552" seo="true" ref="purnellhines">
       <caption webpage="purnellhines" alt=""/>
     </file>
-    <file name="09-ph843x473.jpg" crc="3941609851" seo="true" ref="purnellhines">
+    <file name="09-ph.jpg" crc="3941609851" seo="true" ref="purnellhines">
       <caption webpage="purnellhines" alt=""/>
     </file>
     <file name="04-ph.jpg" crc="4187804566" seo="true" ref="purnellhines">
@@ -1209,13 +1209,13 @@
       <caption webpage="techgeek" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="67693704" seo="true" mt="1559520807553" redirect="true"/>
-  <file name="awesomevii.html" crc="181523991" seo="true" mt="1559520767852" redirect="true"/>
-  <file name="about.html" crc="442119451" seo="true" mt="1559520767852" redirect="true"/>
-  <file name="purnellhines.html" crc="4140443269" seo="true" mt="1559520767852" redirect="true"/>
-  <file name="areteequity.html" crc="514498089" seo="true" mt="1559520767852" redirect="true"/>
-  <file name="slapshop.html" crc="4027355545" seo="true" mt="1559520767852" redirect="true"/>
-  <file name="connect.html" crc="186074155" seo="true" mt="1559487041996" redirect="true"/>
-  <file name="logos.html" crc="4061557844" seo="true" mt="1559520767852" redirect="true"/>
-  <file name="techgeek.html" crc="469845462" seo="true" mt="1559520787434" redirect="true"/>
+  <file name="index.html" crc="4287834731" seo="true" mt="1559726111497" redirect="true"/>
+  <file name="awesomevii.html" crc="124408482" seo="true" mt="1559724873974" redirect="true"/>
+  <file name="about.html" crc="142855070" seo="true" mt="1559724591724" redirect="true"/>
+  <file name="purnellhines.html" crc="72361781" seo="true" mt="1559724591724" redirect="true"/>
+  <file name="areteequity.html" crc="3787015063" seo="true" mt="1559724987654" redirect="true"/>
+  <file name="slapshop.html" crc="4107169885" seo="true" mt="1559725093805" redirect="true"/>
+  <file name="connect.html" crc="374921029" seo="true" mt="1559487041996" redirect="true"/>
+  <file name="logos.html" crc="4153953426" seo="true" mt="1559724762803" redirect="true"/>
+  <file name="techgeek.html" crc="93124636" seo="true" mt="1559725937091" redirect="true"/>
 </manifest>
