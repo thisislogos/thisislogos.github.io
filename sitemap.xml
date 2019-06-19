@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thisislogos.com/index.html</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -371,7 +371,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/purnellhines.html</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -557,7 +557,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/areteequity.html</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -656,7 +656,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/logos.html</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -670,6 +670,9 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/logo-colours1261x709.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout1262x841.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/poster-01-crop-u24874.jpg</image:loc>
@@ -699,6 +702,9 @@
       <image:loc>http://thisislogos.com/images/logo-colours.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/poster-01.jpg</image:loc>
     </image:image>
     <image:image>
@@ -724,6 +730,9 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/logo-colours700x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout703x469.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/poster-01701x467.jpg</image:loc>
@@ -753,6 +762,9 @@
       <image:loc>http://thisislogos.com/images/logo-colours688x387.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout688x459.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/poster-01-crop-u248742.jpg</image:loc>
     </image:image>
     <image:image>
@@ -778,6 +790,9 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/logo-colours490x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout490x327.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/poster-01-crop-u248743.jpg</image:loc>
@@ -807,6 +822,9 @@
       <image:loc>http://thisislogos.com/images/logo-colours276x156.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout276x184.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/poster-01277x184.jpg</image:loc>
     </image:image>
     <image:image>
@@ -827,7 +845,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/awesomevii.html</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -920,7 +938,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/about.html</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -929,7 +947,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/connect.html</loc>
-    <lastmod>2019-06-08</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -959,7 +977,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/techgeek.html</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1058,7 +1076,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/slapshop.html</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
