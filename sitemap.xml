@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thisislogos.com/index.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <lastmod>2020-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -37,6 +37,12 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-05_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb825x464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb825x464.jpg</image:loc>
@@ -101,6 +107,12 @@
       <image:loc>http://thisislogos.com/images/thumb-05500x282_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb505x284.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb505x284_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/thumb501x282.jpg</image:loc>
       <image:caption>Tech Geek thumbnail image for Logos</image:caption>
     </image:image>
@@ -161,6 +173,12 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-05431x242_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb431x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb431x243_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb433x244.jpg</image:loc>
@@ -225,6 +243,12 @@
       <image:loc>http://thisislogos.com/images/thumb-05335x188_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb334x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb334x188_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/thumb335x188.jpg</image:loc>
       <image:caption>Tech Geek thumbnail image for Logos</image:caption>
     </image:image>
@@ -255,6 +279,12 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/slapshop-thumb335x188_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb490x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb490x276_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-01-crop-u22938.jpg</image:loc>
@@ -317,6 +347,12 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/slapshop-thumb490x276_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb276x156_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-01276x156.jpg</image:loc>
@@ -383,7 +419,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/connect.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <lastmod>2019-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -416,7 +452,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/logos.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <lastmod>2019-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -644,137 +680,299 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thisislogos.com/arete.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <loc>http://thisislogos.com/techgeek.html</loc>
+    <lastmod>2019-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-hero1680x840.jpg</image:loc>
-      <image:caption>Arete hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/hero1680x8402.jpg</image:loc>
+      <image:caption>Tech Geek hero image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-011262x710.jpg</image:loc>
-      <image:caption>Arete logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-051262x710.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-021262x861.jpg</image:loc>
-      <image:caption>Arete font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-011261x709.jpg</image:loc>
+      <image:caption>Tech Geek logo image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-031262x710.jpg</image:loc>
-      <image:caption>Arete logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-021262x760.jpg</image:loc>
+      <image:caption>Tech Geek font and colour image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-041262x710.jpg</image:loc>
-      <image:caption>Arete website image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-031262x710.jpg</image:loc>
+      <image:caption>Tech Geek logo colours image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-hero1020x511.jpg</image:loc>
-      <image:caption>Arete hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-041262x1017.jpg</image:loc>
+      <image:caption>Tech Geek branding image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-01.jpg</image:loc>
-      <image:caption>Arete logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-011262x710.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-02.jpg</image:loc>
-      <image:caption>Arete font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-03.jpg</image:loc>
-      <image:caption>Arete logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-021262x710.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-04.jpg</image:loc>
-      <image:caption>Arete website image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-hero880x441.jpg</image:loc>
-      <image:caption>Arete hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-031262x710.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-01700x394.jpg</image:loc>
-      <image:caption>Arete logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-02700x478.jpg</image:loc>
-      <image:caption>Arete font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-041262x710.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-03700x394.jpg</image:loc>
-      <image:caption>Arete logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-04700x394.jpg</image:loc>
-      <image:caption>Arete website image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/hero1020x5102.jpg</image:loc>
+      <image:caption>Tech Geek hero image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-hero688x345.jpg</image:loc>
-      <image:caption>Arete hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-05.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-01688x387.jpg</image:loc>
-      <image:caption>Arete logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-01.jpg</image:loc>
+      <image:caption>Tech Geek logo image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-02688x470.jpg</image:loc>
-      <image:caption>Arete font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-02.jpg</image:loc>
+      <image:caption>Tech Geek font and colour image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-03688x388.jpg</image:loc>
-      <image:caption>Arete logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-03.jpg</image:loc>
+      <image:caption>Tech Geek logo colours image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-04688x388.jpg</image:loc>
-      <image:caption>Arete website image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-04.jpg</image:loc>
+      <image:caption>Tech Geek branding image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-hero490x246.jpg</image:loc>
-      <image:caption>Arete hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01833x469.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-01490x276.jpg</image:loc>
-      <image:caption>Arete logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01833x469_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-02490x335.jpg</image:loc>
-      <image:caption>Arete font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02833x469.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-03490x276.jpg</image:loc>
-      <image:caption>Arete logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02833x469_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-04490x276.jpg</image:loc>
-      <image:caption>Arete website image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03833x469.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-hero276x139.jpg</image:loc>
-      <image:caption>Arete hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03833x469_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-01276x156.jpg</image:loc>
-      <image:caption>Arete logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04833x469.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-02276x189.jpg</image:loc>
-      <image:caption>Arete font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04833x469_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-03276x156.jpg</image:loc>
-      <image:caption>Arete logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/hero880x4402.jpg</image:loc>
+      <image:caption>Tech Geek hero image for Logos</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/arete-04276x156.jpg</image:loc>
-      <image:caption>Arete website image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-05700x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-01701x395.jpg</image:loc>
+      <image:caption>Tech Geek logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-02700x422.jpg</image:loc>
+      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-03700x394.jpg</image:loc>
+      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-04700x565.jpg</image:loc>
+      <image:caption>Tech Geek branding image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01701x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01701x394_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02701x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02701x394_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03701x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03701x394_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04701x395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04701x395_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/hero688x344.jpg</image:loc>
+      <image:caption>Tech Geek hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-05688x387.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-01688x388.jpg</image:loc>
+      <image:caption>Tech Geek logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-02688x415.jpg</image:loc>
+      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-03688x388.jpg</image:loc>
+      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-04688x555.jpg</image:loc>
+      <image:caption>Tech Geek branding image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01691x389.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01691x389_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02691x389.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02691x389_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03691x389.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03691x389_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04691x389.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04691x389_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/hero490x246.jpg</image:loc>
+      <image:caption>Tech Geek hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-05490x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-01490x276.jpg</image:loc>
+      <image:caption>Tech Geek logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-02490x296.jpg</image:loc>
+      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-03490x276.jpg</image:loc>
+      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-04490x396.jpg</image:loc>
+      <image:caption>Tech Geek branding image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01-crop-u29898.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01-crop-u29898_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02-crop-u29978.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02-crop-u29978_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03-crop-u30053.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03-crop-u30053_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04-crop-u30128.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04-crop-u30128_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/hero276x138.jpg</image:loc>
+      <image:caption>Tech Geek hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-05276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-01276x156.jpg</image:loc>
+      <image:caption>Tech Geek logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-02276x167.jpg</image:loc>
+      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-03276x156.jpg</image:loc>
+      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/techgeek-v2-04276x223.jpg</image:loc>
+      <image:caption>Tech Geek branding image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-01276x156_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-02276x156_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-03276x156_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/tech-geek-t-shirt-04276x156_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://thisislogos.com/awesomevii.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <lastmod>2020-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -889,7 +1087,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/about.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <lastmod>2019-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -898,7 +1096,7 @@
   </url>
   <url>
     <loc>http://thisislogos.com/purnellhines.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <lastmod>2019-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1142,8 +1340,137 @@
     </image:image>
   </url>
   <url>
+    <loc>http://thisislogos.com/arete.html</loc>
+    <lastmod>2019-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-hero1680x840.jpg</image:loc>
+      <image:caption>Arete hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-011262x710.jpg</image:loc>
+      <image:caption>Arete logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-021262x861.jpg</image:loc>
+      <image:caption>Arete font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-031262x710.jpg</image:loc>
+      <image:caption>Arete logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-041262x710.jpg</image:loc>
+      <image:caption>Arete website image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-hero1020x511.jpg</image:loc>
+      <image:caption>Arete hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-01.jpg</image:loc>
+      <image:caption>Arete logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-02.jpg</image:loc>
+      <image:caption>Arete font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-03.jpg</image:loc>
+      <image:caption>Arete logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-04.jpg</image:loc>
+      <image:caption>Arete website image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-hero880x441.jpg</image:loc>
+      <image:caption>Arete hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-01700x394.jpg</image:loc>
+      <image:caption>Arete logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-02700x478.jpg</image:loc>
+      <image:caption>Arete font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-03700x394.jpg</image:loc>
+      <image:caption>Arete logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-04700x394.jpg</image:loc>
+      <image:caption>Arete website image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-hero688x345.jpg</image:loc>
+      <image:caption>Arete hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-01688x387.jpg</image:loc>
+      <image:caption>Arete logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-02688x470.jpg</image:loc>
+      <image:caption>Arete font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-03688x388.jpg</image:loc>
+      <image:caption>Arete logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-04688x388.jpg</image:loc>
+      <image:caption>Arete website image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-hero490x246.jpg</image:loc>
+      <image:caption>Arete hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-01490x276.jpg</image:loc>
+      <image:caption>Arete logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-02490x335.jpg</image:loc>
+      <image:caption>Arete font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-03490x276.jpg</image:loc>
+      <image:caption>Arete logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-04490x276.jpg</image:loc>
+      <image:caption>Arete website image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-hero276x139.jpg</image:loc>
+      <image:caption>Arete hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-01276x156.jpg</image:loc>
+      <image:caption>Arete logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-02276x189.jpg</image:loc>
+      <image:caption>Arete font and colour image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-03276x156.jpg</image:loc>
+      <image:caption>Arete logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/arete-04276x156.jpg</image:loc>
+      <image:caption>Arete website image for Logos</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>http://thisislogos.com/slapshop.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <lastmod>2019-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1295,132 +1622,174 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thisislogos.com/techgeek.html</loc>
-    <lastmod>2019-07-01</lastmod>
+    <loc>http://thisislogos.com/genevieve.html</loc>
+    <lastmod>2020-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/hero1680x8402.jpg</image:loc>
-      <image:caption>Tech Geek hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-hero1680x840.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-011261x709.jpg</image:loc>
-      <image:caption>Tech Geek logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-011261x709.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-021262x760.jpg</image:loc>
-      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-031262x760.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-031262x710.jpg</image:loc>
-      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-021261x709.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-041262x1017.jpg</image:loc>
-      <image:caption>Tech Geek branding image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-041262x1367.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/hero1020x5102.jpg</image:loc>
-      <image:caption>Tech Geek hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-051262x1367.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-01.jpg</image:loc>
-      <image:caption>Tech Geek logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-061261x709.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-02.jpg</image:loc>
-      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-071261x709.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-03.jpg</image:loc>
-      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-081262x710.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-04.jpg</image:loc>
-      <image:caption>Tech Geek branding image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-hero1020x511.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/hero880x4402.jpg</image:loc>
-      <image:caption>Tech Geek hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-01701x395.jpg</image:loc>
-      <image:caption>Tech Geek logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-03.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-02700x422.jpg</image:loc>
-      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-02.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-03700x394.jpg</image:loc>
-      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-04.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-04700x565.jpg</image:loc>
-      <image:caption>Tech Geek branding image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-05.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/hero688x344.jpg</image:loc>
-      <image:caption>Tech Geek hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-06.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-01688x388.jpg</image:loc>
-      <image:caption>Tech Geek logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-07.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-02688x415.jpg</image:loc>
-      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-08.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-03688x388.jpg</image:loc>
-      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-hero880x441.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-04688x555.jpg</image:loc>
-      <image:caption>Tech Geek branding image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-01701x394.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/hero490x246.jpg</image:loc>
-      <image:caption>Tech Geek hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-03701x422.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-01490x276.jpg</image:loc>
-      <image:caption>Tech Geek logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-02701x395.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-02490x296.jpg</image:loc>
-      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-04701x760.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-03490x276.jpg</image:loc>
-      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-05701x760.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-04490x396.jpg</image:loc>
-      <image:caption>Tech Geek branding image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-06701x395.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/hero276x138.jpg</image:loc>
-      <image:caption>Tech Geek hero image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-07701x395.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-01276x156.jpg</image:loc>
-      <image:caption>Tech Geek logo image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-08701x395.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-02276x167.jpg</image:loc>
-      <image:caption>Tech Geek font and colour image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-hero688x345.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-03276x156.jpg</image:loc>
-      <image:caption>Tech Geek logo colours image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-01688x387.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thisislogos.com/images/techgeek-v2-04276x223.jpg</image:loc>
-      <image:caption>Tech Geek branding image for Logos</image:caption>
+      <image:loc>http://thisislogos.com/images/genevieve-03688x415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-02688x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-04688x746.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-05688x746.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-06688x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-07688x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-08688x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-hero490x246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-01491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-03491x296.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-02491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-04491x532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-05491x532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-06493x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-07491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-08491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-hero278x140.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-01278x157.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-03277x167.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-02277x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-04277x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-05277x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-06281x158.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-07281x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-08281x159.jpg</image:loc>
     </image:image>
   </url>
   <url>
