@@ -1,40 +1,40 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1578453085198">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1578467845031">
   <folder name="css">
-    <file name="site_global.css" crc="115743811"/>
-    <file name="master_master.css" crc="4095963132" ref="slapshop:genevieve:index:awesomevii:about:logos:techgeek:purnellhines:arete"/>
-    <file name="nomq_preview_master_master.css" crc="4276798705" ref="slapshop:genevieve:index:awesomevii:about:logos:techgeek:purnellhines:arete"/>
-    <file name="master_master-contact.css" crc="3869141922" ref="connect"/>
-    <file name="nomq_preview_master_master-contact.css" crc="3921132013" ref="connect"/>
-    <file name="slapshop.css" crc="32826952" ref="slapshop"/>
-    <file name="nomq_slapshop.css" crc="3853097048" ref="slapshop"/>
-    <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
-    <file name="genevieve.css" crc="3780942967" ref="genevieve"/>
-    <file name="nomq_genevieve.css" crc="114964192" ref="genevieve"/>
-    <file name="iefonts_genevieve.css" crc="3824530138" ref="genevieve"/>
-    <file name="index.css" crc="4134283368" ref="index"/>
-    <file name="nomq_index.css" crc="114329926" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="awesomevii.css" crc="4282051400" ref="awesomevii"/>
-    <file name="nomq_awesomevii.css" crc="4103784512" ref="awesomevii"/>
-    <file name="iefonts_awesomevii.css" crc="3824530138" ref="awesomevii"/>
-    <file name="about.css" crc="421088243" ref="about"/>
-    <file name="nomq_about.css" crc="211021852" ref="about"/>
-    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="connect.css" crc="3909833641" ref="connect"/>
+    <file name="site_global.css" crc="233823287"/>
+    <file name="master_master-contact.css" crc="87686431" ref="connect"/>
+    <file name="nomq_preview_master_master-contact.css" crc="3841879793" ref="connect"/>
+    <file name="master_master.css" crc="3848862468" ref="index:genevieve:purnellhines:logos:awesomevii:arete:techgeek:about:slapshop"/>
+    <file name="nomq_preview_master_master.css" crc="359450338" ref="index:genevieve:purnellhines:logos:awesomevii:arete:techgeek:about:slapshop"/>
+    <file name="connect.css" crc="4211369680" ref="connect"/>
     <file name="nomq_connect.css" crc="4027939456" ref="connect"/>
     <file name="iefonts_connect.css" crc="3824530138" ref="connect"/>
-    <file name="logos.css" crc="4240445253" ref="logos"/>
-    <file name="nomq_logos.css" crc="4139507077" ref="logos"/>
-    <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
-    <file name="techgeek.css" crc="79369150" ref="techgeek"/>
-    <file name="nomq_techgeek.css" crc="225113464" ref="techgeek"/>
-    <file name="iefonts_techgeek.css" crc="3824530138" ref="techgeek"/>
-    <file name="purnellhines.css" crc="487175130" ref="purnellhines"/>
+    <file name="index.css" crc="4206532511" ref="index"/>
+    <file name="nomq_index.css" crc="114329926" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="genevieve.css" crc="279719085" ref="genevieve"/>
+    <file name="nomq_genevieve.css" crc="114964192" ref="genevieve"/>
+    <file name="iefonts_genevieve.css" crc="3824530138" ref="genevieve"/>
+    <file name="purnellhines.css" crc="4033843080" ref="purnellhines"/>
     <file name="nomq_purnellhines.css" crc="188476688" ref="purnellhines"/>
     <file name="iefonts_purnellhines.css" crc="3824530138" ref="purnellhines"/>
-    <file name="arete.css" crc="4063813523" ref="arete"/>
+    <file name="logos.css" crc="225217846" ref="logos"/>
+    <file name="nomq_logos.css" crc="4139507077" ref="logos"/>
+    <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
+    <file name="awesomevii.css" crc="4020281796" ref="awesomevii"/>
+    <file name="nomq_awesomevii.css" crc="4103784512" ref="awesomevii"/>
+    <file name="iefonts_awesomevii.css" crc="3824530138" ref="awesomevii"/>
+    <file name="arete.css" crc="483293182" ref="arete"/>
     <file name="nomq_arete.css" crc="4283111490" ref="arete"/>
     <file name="iefonts_arete.css" crc="3824530138" ref="arete"/>
+    <file name="techgeek.css" crc="216247627" ref="techgeek"/>
+    <file name="nomq_techgeek.css" crc="225113464" ref="techgeek"/>
+    <file name="iefonts_techgeek.css" crc="3824530138" ref="techgeek"/>
+    <file name="about.css" crc="3766680680" ref="about"/>
+    <file name="nomq_about.css" crc="431065692" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="slapshop.css" crc="281411873" ref="slapshop"/>
+    <file name="nomq_slapshop.css" crc="3853097048" ref="slapshop"/>
+    <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
   </folder>
   <folder name="assets">
     <file name="-28-preloader.svg" crc="3952127654" seo="true" mt="1522941756000"/>
@@ -59,36 +59,24 @@
   <folder name="images">
     <file name="favicon.ico" crc="230785578" ref="index"/>
     <file name="pasted-svg-292x130.svg" crc="77924827" seo="true" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve">
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="slapshop" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
       <caption webpage="techgeek" alt=""/>
       <caption webpage="techgeek" alt=""/>
       <caption webpage="techgeek" alt=""/>
       <caption webpage="techgeek" alt=""/>
       <caption webpage="techgeek" alt=""/>
       <caption webpage="techgeek" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -108,18 +96,30 @@
       <caption webpage="connect" alt=""/>
       <caption webpage="connect" alt=""/>
       <caption webpage="connect" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
+      <caption webpage="slapshop" alt=""/>
     </file>
     <file name="pasted svg 292x130_poster_.png" crc="3772264425" ref="index"/>
     <file name="thumb-01825x464.jpg" crc="3908304526" seo="true" ref="index">
@@ -154,10 +154,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:logos:techgeek"/>
-    <file name="genevieve-thumb825x464.jpg" crc="4217021320" seo="true" ref="index">
+    <file name="genevieve-thumb825x464.jpg" crc="4099867225" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb_2x.jpg" crc="4293636102" seo="true" ref="index">
+    <file name="genevieve-thumb_2x.jpg" crc="4001474237" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb825x464.jpg" crc="17680534" seo="true" ref="index">
@@ -220,10 +220,10 @@
     <file name="thumb-05500x282_2x.jpg" crc="3841828798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb505x284.jpg" crc="302131494" seo="true" ref="index">
+    <file name="genevieve-thumb505x284.jpg" crc="4007062993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb505x284_2x.jpg" crc="450753130" seo="true" ref="index">
+    <file name="genevieve-thumb505x284_2x.jpg" crc="367074068" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb501x282.jpg" crc="3786796672" seo="true" ref="index">
@@ -286,10 +286,10 @@
     <file name="thumb-05431x242_2x.jpg" crc="4040398888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb431x243.jpg" crc="232322216" seo="true" ref="index">
+    <file name="genevieve-thumb431x243.jpg" crc="218940382" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb431x243_2x.jpg" crc="38730698" seo="true" ref="index">
+    <file name="genevieve-thumb431x243_2x.jpg" crc="3943508170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb433x244.jpg" crc="11267016" seo="true" ref="index">
@@ -352,10 +352,10 @@
     <file name="thumb-05335x188_2x.jpg" crc="4113314837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb334x188.jpg" crc="3801792787" seo="true" ref="index">
+    <file name="genevieve-thumb334x188.jpg" crc="3845545592" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb334x188_2x.jpg" crc="4047754626" seo="true" ref="index">
+    <file name="genevieve-thumb334x188_2x.jpg" crc="3944798381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb335x188.jpg" crc="3964826119" seo="true" ref="index">
@@ -388,37 +388,37 @@
     <file name="slapshop-thumb335x188_2x.jpg" crc="56230127" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb490x276.jpg" crc="3821288090" seo="true" ref="index">
+    <file name="genevieve-thumb490x276.jpg" crc="132052871" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb490x276_2x.jpg" crc="367615694" seo="true" ref="index">
+    <file name="genevieve-thumb490x276_2x.jpg" crc="496505910" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-01-crop-u22938.jpg" crc="12757344" seo="true" ref="index">
+    <file name="thumb-01-crop-u22938.jpg" crc="3766600080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-01-crop-u22938_2x.jpg" crc="4257880643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-02-crop-u22940.jpg" crc="458831086" seo="true" ref="index">
+    <file name="thumb-02-crop-u22940.jpg" crc="4274361937" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-02-crop-u22940_2x.jpg" crc="3901260121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-03-crop-u22934.jpg" crc="378616301" seo="true" ref="index">
+    <file name="thumb-03-crop-u22934.jpg" crc="3792124592" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-03-crop-u22934_2x.jpg" crc="321299030" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-04-crop-u22936.jpg" crc="4099232108" seo="true" ref="index">
+    <file name="thumb-04-crop-u22936.jpg" crc="199158452" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-04-crop-u22936_2x.jpg" crc="4063668445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-05-crop-u22932.jpg" crc="254720859" seo="true" ref="index">
+    <file name="thumb-05-crop-u22932.jpg" crc="118884809" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-05-crop-u22932_2x.jpg" crc="400857335" seo="true" ref="index">
@@ -454,10 +454,10 @@
     <file name="slapshop-thumb490x276_2x.jpg" crc="3828590734" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb276x156.jpg" crc="4223289217" seo="true" ref="index">
+    <file name="genevieve-thumb276x156.jpg" crc="350380748" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb276x156_2x.jpg" crc="4126735237" seo="true" ref="index">
+    <file name="genevieve-thumb276x156_2x.jpg" crc="205401782" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-01276x156.jpg" crc="384520133" seo="true" ref="index">
@@ -1442,10 +1442,10 @@
     <file name="genevieve-021261x709.jpg" crc="4267107583" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-041262x1367.jpg" crc="3840703185" seo="true" ref="genevieve">
+    <file name="genevieve-041262x1367.jpg" crc="4054149776" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-051262x1367.jpg" crc="4187852982" seo="true" ref="genevieve">
+    <file name="genevieve-051262x1367.jpg" crc="4150556134" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
     <file name="genevieve-061261x709.jpg" crc="4223140956" seo="true" ref="genevieve">
@@ -1469,10 +1469,10 @@
     <file name="genevieve-02.jpg" crc="367300981" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-04.jpg" crc="4101284063" seo="true" ref="genevieve">
+    <file name="genevieve-04.jpg" crc="437277883" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-05.jpg" crc="296052084" seo="true" ref="genevieve">
+    <file name="genevieve-05.jpg" crc="3884609379" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
     <file name="genevieve-06.jpg" crc="4130922719" seo="true" ref="genevieve">
@@ -1496,10 +1496,10 @@
     <file name="genevieve-02701x395.jpg" crc="4160598231" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-04701x760.jpg" crc="320798319" seo="true" ref="genevieve">
+    <file name="genevieve-04701x760.jpg" crc="377871035" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-05701x760.jpg" crc="418437405" seo="true" ref="genevieve">
+    <file name="genevieve-05701x760.jpg" crc="501686905" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
     <file name="genevieve-06701x395.jpg" crc="175062070" seo="true" ref="genevieve">
@@ -1523,10 +1523,10 @@
     <file name="genevieve-02688x388.jpg" crc="3790396963" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-04688x746.jpg" crc="4265982861" seo="true" ref="genevieve">
+    <file name="genevieve-04688x746.jpg" crc="4037803427" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-05688x746.jpg" crc="250342701" seo="true" ref="genevieve">
+    <file name="genevieve-05688x746.jpg" crc="534725909" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
     <file name="genevieve-06688x388.jpg" crc="4198333270" seo="true" ref="genevieve">
@@ -1550,10 +1550,10 @@
     <file name="genevieve-02491x277.jpg" crc="7658028" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-04491x532.jpg" crc="3837639503" seo="true" ref="genevieve">
+    <file name="genevieve-04491x532.jpg" crc="306638492" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-05491x532.jpg" crc="3861272833" seo="true" ref="genevieve">
+    <file name="genevieve-05491x532.jpg" crc="78231375" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
     <file name="genevieve-06493x278.jpg" crc="4291120347" seo="true" ref="genevieve">
@@ -1577,10 +1577,10 @@
     <file name="genevieve-02277x156.jpg" crc="4042951739" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-04277x300.jpg" crc="3962409231" seo="true" ref="genevieve">
+    <file name="genevieve-04277x300.jpg" crc="3760347866" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
-    <file name="genevieve-05277x300.jpg" crc="59977888" seo="true" ref="genevieve">
+    <file name="genevieve-05277x300.jpg" crc="3790719478" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
     <file name="genevieve-06281x158.jpg" crc="4039424145" seo="true" ref="genevieve">
@@ -1593,14 +1593,14 @@
       <caption webpage="genevieve" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4252928039" seo="true" mt="1578452960326" redirect="true"/>
-  <file name="awesomevii.html" crc="4176410121" seo="true" mt="1578452657179" redirect="true"/>
-  <file name="about.html" crc="3945366559" seo="true" mt="1564570315500" redirect="true"/>
-  <file name="connect.html" crc="242487993" seo="true" mt="1562650725843" redirect="true"/>
-  <file name="logos.html" crc="4269980514" seo="true" mt="1564570315500" redirect="true"/>
-  <file name="techgeek.html" crc="4014642943" seo="true" mt="1564571166210" redirect="true"/>
-  <file name="purnellhines.html" crc="89325119" seo="true" mt="1564570315500" redirect="true"/>
-  <file name="arete.html" crc="4202323472" seo="true" mt="1564570315500" redirect="true"/>
-  <file name="slapshop.html" crc="189736507" seo="true" mt="1564570315500" redirect="true"/>
-  <file name="genevieve.html" crc="389954469" seo="true" mt="1578452960328" redirect="true"/>
+  <file name="index.html" crc="266787586" seo="true" mt="1578467776612" redirect="true"/>
+  <file name="awesomevii.html" crc="337423380" seo="true" mt="1578466125686" redirect="true"/>
+  <file name="about.html" crc="3892082292" seo="true" mt="1564570315500" redirect="true"/>
+  <file name="connect.html" crc="447570971" seo="true" mt="1562650725843" redirect="true"/>
+  <file name="logos.html" crc="3933516308" seo="true" mt="1578465567673" redirect="true"/>
+  <file name="techgeek.html" crc="144990116" seo="true" mt="1578465696468" redirect="true"/>
+  <file name="purnellhines.html" crc="3817307186" seo="true" mt="1578466255433" redirect="true"/>
+  <file name="arete.html" crc="3895786994" seo="true" mt="1578466300736" redirect="true"/>
+  <file name="slapshop.html" crc="443447169" seo="true" mt="1578466344816" redirect="true"/>
+  <file name="genevieve.html" crc="77781954" seo="true" mt="1578467776191" redirect="true"/>
 </manifest>
