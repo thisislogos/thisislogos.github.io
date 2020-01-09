@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1578542572356">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1578543690700">
   <folder name="css">
     <file name="site_global.css" crc="115743811"/>
     <file name="master_master.css" crc="15253922" ref="techgeek:about:slapshop:purnellhines:index:genevieve:arete:logos:awesomevii"/>
@@ -394,31 +394,31 @@
     <file name="genevieve-thumb490x276_2x.jpg" crc="496505910" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-01-crop-u22938.jpg" crc="3766600080" seo="true" ref="index">
+    <file name="thumb-01-crop-u22938.jpg" crc="12757344" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-01-crop-u22938_2x.jpg" crc="4257880643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-02-crop-u22940.jpg" crc="4274361937" seo="true" ref="index">
+    <file name="thumb-02-crop-u22940.jpg" crc="458831086" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-02-crop-u22940_2x.jpg" crc="3901260121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-03-crop-u22934.jpg" crc="3792124592" seo="true" ref="index">
+    <file name="thumb-03-crop-u22934.jpg" crc="378616301" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-03-crop-u22934_2x.jpg" crc="321299030" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-04-crop-u22936.jpg" crc="199158452" seo="true" ref="index">
+    <file name="thumb-04-crop-u22936.jpg" crc="4099232108" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-04-crop-u22936_2x.jpg" crc="4063668445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-05-crop-u22932.jpg" crc="118884809" seo="true" ref="index">
+    <file name="thumb-05-crop-u22932.jpg" crc="254720859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-05-crop-u22932_2x.jpg" crc="400857335" seo="true" ref="index">
@@ -1593,7 +1593,7 @@
       <caption webpage="genevieve" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4143381513" seo="true" mt="1578469739437" redirect="true"/>
+  <file name="index.html" crc="4286644356" seo="true" mt="1578469739437" redirect="true"/>
   <file name="awesomevii.html" crc="4118079621" seo="true" mt="1578542300791" redirect="true"/>
   <file name="about.html" crc="276744554" seo="true" mt="1564570315500" redirect="true"/>
   <file name="connect.html" crc="213772280" seo="true" mt="1562650725843" redirect="true"/>
@@ -1602,5 +1602,5 @@
   <file name="purnellhines.html" crc="99289716" seo="true" mt="1578542366974" redirect="true"/>
   <file name="arete.html" crc="3781708386" seo="true" mt="1578542407105" redirect="true"/>
   <file name="slapshop.html" crc="238086453" seo="true" mt="1578542450522" redirect="true"/>
-  <file name="genevieve.html" crc="4197694708" seo="true" mt="1578541659223" redirect="true"/>
+  <file name="genevieve.html" crc="63351226" seo="true" mt="1578543605424" redirect="true"/>
 </manifest>
