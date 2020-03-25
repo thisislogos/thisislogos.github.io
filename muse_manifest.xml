@@ -1,40 +1,43 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1578543690700">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1585118345851">
   <folder name="css">
-    <file name="site_global.css" crc="115743811"/>
-    <file name="master_master.css" crc="15253922" ref="techgeek:about:slapshop:purnellhines:index:genevieve:arete:logos:awesomevii"/>
-    <file name="nomq_preview_master_master.css" crc="359450338" ref="techgeek:about:slapshop:purnellhines:index:genevieve:arete:logos:awesomevii"/>
-    <file name="master_master-contact.css" crc="87686431" ref="connect"/>
+    <file name="site_global.css" crc="233823287"/>
+    <file name="master_master-contact.css" crc="158825976" ref="connect"/>
     <file name="nomq_preview_master_master-contact.css" crc="3841879793" ref="connect"/>
-    <file name="techgeek.css" crc="141569626" ref="techgeek"/>
-    <file name="nomq_techgeek.css" crc="225113464" ref="techgeek"/>
-    <file name="iefonts_techgeek.css" crc="3824530138" ref="techgeek"/>
-    <file name="about.css" crc="3766680680" ref="about"/>
-    <file name="nomq_about.css" crc="431065692" ref="about"/>
-    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="slapshop.css" crc="4034248709" ref="slapshop"/>
-    <file name="nomq_slapshop.css" crc="3853097048" ref="slapshop"/>
-    <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
-    <file name="purnellhines.css" crc="3823625289" ref="purnellhines"/>
-    <file name="nomq_purnellhines.css" crc="188476688" ref="purnellhines"/>
-    <file name="iefonts_purnellhines.css" crc="3824530138" ref="purnellhines"/>
-    <file name="connect.css" crc="4293910231" ref="connect"/>
-    <file name="nomq_connect.css" crc="4027939456" ref="connect"/>
-    <file name="iefonts_connect.css" crc="3824530138" ref="connect"/>
-    <file name="index.css" crc="4040316976" ref="index"/>
-    <file name="nomq_index.css" crc="114329926" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="genevieve.css" crc="4272368392" ref="genevieve"/>
-    <file name="nomq_genevieve.css" crc="114964192" ref="genevieve"/>
+    <file name="master_master.css" crc="4047285507" ref="genevieve:purnellhines:index:greenquarter:arete:logos:awesomevii:slapshop:techgeek:about"/>
+    <file name="nomq_preview_master_master.css" crc="4167279585" ref="genevieve:purnellhines:index:greenquarter:arete:logos:awesomevii:slapshop:techgeek:about"/>
+    <file name="genevieve.css" crc="4042448613" ref="genevieve"/>
+    <file name="nomq_genevieve.css" crc="3953401782" ref="genevieve"/>
     <file name="iefonts_genevieve.css" crc="3824530138" ref="genevieve"/>
-    <file name="arete.css" crc="351952688" ref="arete"/>
-    <file name="nomq_arete.css" crc="4283111490" ref="arete"/>
+    <file name="purnellhines.css" crc="3933985708" ref="purnellhines"/>
+    <file name="nomq_purnellhines.css" crc="3902583941" ref="purnellhines"/>
+    <file name="iefonts_purnellhines.css" crc="3824530138" ref="purnellhines"/>
+    <file name="connect.css" crc="3864547556" ref="connect"/>
+    <file name="nomq_connect.css" crc="90567680" ref="connect"/>
+    <file name="iefonts_connect.css" crc="3824530138" ref="connect"/>
+    <file name="index.css" crc="172842673" ref="index"/>
+    <file name="nomq_index.css" crc="4122031136" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="greenquarter.css" crc="383207750" ref="greenquarter"/>
+    <file name="nomq_greenquarter.css" crc="4209800924" ref="greenquarter"/>
+    <file name="iefonts_greenquarter.css" crc="3824530138" ref="greenquarter"/>
+    <file name="arete.css" crc="4227961959" ref="arete"/>
+    <file name="nomq_arete.css" crc="4127707161" ref="arete"/>
     <file name="iefonts_arete.css" crc="3824530138" ref="arete"/>
-    <file name="logos.css" crc="141533201" ref="logos"/>
-    <file name="nomq_logos.css" crc="4139507077" ref="logos"/>
+    <file name="logos.css" crc="4281770937" ref="logos"/>
+    <file name="nomq_logos.css" crc="3836423030" ref="logos"/>
     <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
-    <file name="awesomevii.css" crc="4272631389" ref="awesomevii"/>
-    <file name="nomq_awesomevii.css" crc="4103784512" ref="awesomevii"/>
+    <file name="awesomevii.css" crc="467426510" ref="awesomevii"/>
+    <file name="nomq_awesomevii.css" crc="4240543625" ref="awesomevii"/>
     <file name="iefonts_awesomevii.css" crc="3824530138" ref="awesomevii"/>
+    <file name="slapshop.css" crc="3923547749" ref="slapshop"/>
+    <file name="nomq_slapshop.css" crc="518292511" ref="slapshop"/>
+    <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
+    <file name="techgeek.css" crc="291315465" ref="techgeek"/>
+    <file name="nomq_techgeek.css" crc="291710980" ref="techgeek"/>
+    <file name="iefonts_techgeek.css" crc="3824530138" ref="techgeek"/>
+    <file name="about.css" crc="265450731" ref="about"/>
+    <file name="nomq_about.css" crc="253306072" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
   <folder name="assets">
     <file name="-28-preloader.svg" crc="3952127654" seo="true" mt="1522941756000"/>
@@ -42,47 +45,47 @@
     <file name="-44-ico_menu_close.svg" crc="465441837" seo="true" mt="1523903717000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
-    <file name="museutils.js" crc="3939489907" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
-    <file name="whatinput.js" crc="86476730" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
+    <file name="museutils.js" crc="3939489907" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
+    <file name="whatinput.js" crc="86476730" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
     <file name="webpro.js" crc="3856315280" ref="index:logos:techgeek"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index:logos:techgeek"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index:logos:techgeek"/>
     <file name="touchswipe.js" crc="3888935200" ref="index:logos:techgeek"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
-    <file name="require.js" crc="4177726516" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
+    <file name="require.js" crc="4177726516" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="230785578" ref="index"/>
-    <file name="pasted-svg-292x130.svg" crc="77924827" seo="true" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve">
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
-      <caption webpage="awesomevii" alt=""/>
+    <file name="pasted-svg-292x130.svg" crc="77924827" seo="true" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter">
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
+      <caption webpage="awesomevii" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
       <caption webpage="purnellhines" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
-      <caption webpage="genevieve" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
       <caption webpage="techgeek" alt=""/>
       <caption webpage="techgeek" alt=""/>
       <caption webpage="techgeek" alt=""/>
@@ -95,12 +98,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
       <caption webpage="connect" alt=""/>
       <caption webpage="connect" alt=""/>
       <caption webpage="connect" alt=""/>
@@ -114,21 +111,45 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
+      <caption webpage="genevieve" alt=""/>
     </file>
     <file name="pasted svg 292x130_poster_.png" crc="3772264425" ref="index"/>
+    <file name="gq-thumb824x464.jpg" crc="344145714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb_2x.jpg" crc="4104081326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genevieve-thumb825x464.jpg" crc="4099867225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genevieve-thumb_2x.jpg" crc="4001474237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="thumb-01825x464.jpg" crc="3908304526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-01_2x.jpg" crc="3930351521" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve"/>
+    <file name="blank.gif" crc="4208392903" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter"/>
     <file name="thumb-02825x464.jpg" crc="3815551117" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -154,12 +175,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:logos:techgeek"/>
-    <file name="genevieve-thumb825x464.jpg" crc="4099867225" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="genevieve-thumb_2x.jpg" crc="4001474237" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="thumb825x464.jpg" crc="17680534" seo="true" ref="index">
       <caption webpage="index" alt="Tech Geek thumbnail image for Logos"/>
     </file>
@@ -188,6 +203,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="slapshop-thumb_2x.jpg" crc="104105268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb500x282.jpg" crc="3837338464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb500x282_2x.jpg" crc="3872749745" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genevieve-thumb500x282.jpg" crc="4082475076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genevieve-thumb500x282_2x.jpg" crc="317448506" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-01500x282.jpg" crc="4140802194" seo="true" ref="index">
@@ -220,12 +247,6 @@
     <file name="thumb-05500x282_2x.jpg" crc="3841828798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb505x284.jpg" crc="4007062993" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="genevieve-thumb505x284_2x.jpg" crc="367074068" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="thumb501x282.jpg" crc="3786796672" seo="true" ref="index">
       <caption webpage="index" alt="Tech Geek thumbnail image for Logos"/>
     </file>
@@ -254,6 +275,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="slapshop-thumb500x282_2x.jpg" crc="4190696743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb431x243.jpg" crc="3888759659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb431x243_2x.jpg" crc="4244430844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genevieve-thumb431x243.jpg" crc="218940382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genevieve-thumb431x243_2x.jpg" crc="3943508170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-01431x242.jpg" crc="463740619" seo="true" ref="index">
@@ -286,12 +319,6 @@
     <file name="thumb-05431x242_2x.jpg" crc="4040398888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb431x243.jpg" crc="218940382" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="genevieve-thumb431x243_2x.jpg" crc="3943508170" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="thumb433x244.jpg" crc="11267016" seo="true" ref="index">
       <caption webpage="index" alt="Tech Geek thumbnail image for Logos"/>
     </file>
@@ -320,6 +347,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="slapshop-thumb431x243_2x.jpg" crc="403559623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb334x188.jpg" crc="4101235132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb334x188_2x.jpg" crc="223460939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genevieve-thumb334x188.jpg" crc="3845545592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genevieve-thumb334x188_2x.jpg" crc="3944798381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-01335x188.jpg" crc="231489710" seo="true" ref="index">
@@ -352,12 +391,6 @@
     <file name="thumb-05335x188_2x.jpg" crc="4113314837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="genevieve-thumb334x188.jpg" crc="3845545592" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="genevieve-thumb334x188_2x.jpg" crc="3944798381" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="thumb335x188.jpg" crc="3964826119" seo="true" ref="index">
       <caption webpage="index" alt="Tech Geek thumbnail image for Logos"/>
     </file>
@@ -388,37 +421,43 @@
     <file name="slapshop-thumb335x188_2x.jpg" crc="56230127" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="gq-thumb491x277.jpg" crc="204102218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb491x277_2x.jpg" crc="243872792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="genevieve-thumb490x276.jpg" crc="132052871" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="genevieve-thumb490x276_2x.jpg" crc="496505910" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-01-crop-u22938.jpg" crc="12757344" seo="true" ref="index">
+    <file name="thumb-01-crop-u22938.jpg" crc="3766600080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-01-crop-u22938_2x.jpg" crc="4257880643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-02-crop-u22940.jpg" crc="458831086" seo="true" ref="index">
+    <file name="thumb-02-crop-u22940.jpg" crc="4274361937" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-02-crop-u22940_2x.jpg" crc="3901260121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-03-crop-u22934.jpg" crc="378616301" seo="true" ref="index">
+    <file name="thumb-03-crop-u22934.jpg" crc="3792124592" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-03-crop-u22934_2x.jpg" crc="321299030" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-04-crop-u22936.jpg" crc="4099232108" seo="true" ref="index">
+    <file name="thumb-04-crop-u22936.jpg" crc="199158452" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-04-crop-u22936_2x.jpg" crc="4063668445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-05-crop-u22932.jpg" crc="254720859" seo="true" ref="index">
+    <file name="thumb-05-crop-u22932.jpg" crc="118884809" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="thumb-05-crop-u22932_2x.jpg" crc="400857335" seo="true" ref="index">
@@ -452,6 +491,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="slapshop-thumb490x276_2x.jpg" crc="3828590734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb276x156.jpg" crc="3913231050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gq-thumb276x156_2x.jpg" crc="3801782979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="genevieve-thumb276x156.jpg" crc="350380748" seo="true" ref="index">
@@ -1592,15 +1637,142 @@
     <file name="genevieve-08281x159.jpg" crc="100466380" seo="true" ref="genevieve">
       <caption webpage="genevieve" alt=""/>
     </file>
+    <file name="gq-00-hero1680x833.jpg" crc="4082396826" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-011262x841.jpg" crc="4022843222" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-021262x710.jpg" crc="284132181" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-031262x710.jpg" crc="4249694546" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-041262x625.jpg" crc="86030371" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-051262x1100.jpg" crc="264357113" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-061262x1262.jpg" crc="3960166908" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-00-hero1020x506.jpg" crc="4237043500" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-01.jpg" crc="3937499206" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-02.jpg" crc="3960818340" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-03.jpg" crc="17209340" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-04.jpg" crc="3768289458" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-05.jpg" crc="3899298012" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-06.jpg" crc="28645222" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-00-hero880x437.jpg" crc="407881948" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-01700x467.jpg" crc="106395460" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-02700x394.jpg" crc="3844265427" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-03700x394.jpg" crc="3922935409" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-04700x347.jpg" crc="291376612" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-05700x611.jpg" crc="4078448758" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-06700x700.jpg" crc="3943322636" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-00-hero688x341.jpg" crc="3794991017" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-01639x426.jpg" crc="244811425" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-02639x360.jpg" crc="400312473" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-03639x360.jpg" crc="483644733" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-04640x318.jpg" crc="512214120" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-05639x557.jpg" crc="12458198" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-06639x639.jpg" crc="32321813" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-00-hero490x243.jpg" crc="4214166323" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-01490x327.jpg" crc="3845741482" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-02490x276.jpg" crc="318772772" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-03490x276.jpg" crc="4269591462" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-04490x243.jpg" crc="4021489661" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-05490x428.jpg" crc="192868637" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-06490x491.jpg" crc="3922378132" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-00-hero276x137.jpg" crc="3905440415" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-01276x184.jpg" crc="463604787" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-02276x156.jpg" crc="42325620" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-03276x156.jpg" crc="3873894832" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-04276x137.jpg" crc="4265077546" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-05276x241.jpg" crc="4000434775" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
+    <file name="gq-06276x276.jpg" crc="227540248" seo="true" ref="greenquarter">
+      <caption webpage="greenquarter" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4286644356" seo="true" mt="1578469739437" redirect="true"/>
-  <file name="awesomevii.html" crc="4118079621" seo="true" mt="1578542300791" redirect="true"/>
-  <file name="about.html" crc="276744554" seo="true" mt="1564570315500" redirect="true"/>
-  <file name="connect.html" crc="213772280" seo="true" mt="1562650725843" redirect="true"/>
-  <file name="logos.html" crc="4074233567" seo="true" mt="1578541932781" redirect="true"/>
-  <file name="techgeek.html" crc="4139479880" seo="true" mt="1578542091415" redirect="true"/>
-  <file name="purnellhines.html" crc="99289716" seo="true" mt="1578542366974" redirect="true"/>
-  <file name="arete.html" crc="3781708386" seo="true" mt="1578542407105" redirect="true"/>
-  <file name="slapshop.html" crc="238086453" seo="true" mt="1578542450522" redirect="true"/>
-  <file name="genevieve.html" crc="63351226" seo="true" mt="1578543605424" redirect="true"/>
+  <file name="index.html" crc="50275255" seo="true" mt="1585118155839" redirect="true"/>
+  <file name="awesomevii.html" crc="400658317" seo="true" mt="1578542300791" redirect="true"/>
+  <file name="about.html" crc="368021732" seo="true" mt="1564570315500" redirect="true"/>
+  <file name="connect.html" crc="211176954" seo="true" mt="1562650725843" redirect="true"/>
+  <file name="logos.html" crc="3867332684" seo="true" mt="1578541932781" redirect="true"/>
+  <file name="techgeek.html" crc="342469094" seo="true" mt="1578542091415" redirect="true"/>
+  <file name="purnellhines.html" crc="148384331" seo="true" mt="1585038636694" redirect="true"/>
+  <file name="arete.html" crc="171804480" seo="true" mt="1578542407105" redirect="true"/>
+  <file name="slapshop.html" crc="4025877355" seo="true" mt="1578542450522" redirect="true"/>
+  <file name="genevieve.html" crc="3848823023" seo="true" mt="1585116341670" redirect="true"/>
+  <file name="greenquarter.html" crc="419485816" seo="true" mt="1585116442421" redirect="true"/>
 </manifest>

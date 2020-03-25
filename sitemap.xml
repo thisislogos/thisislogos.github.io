@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thisislogos.com/index.html</loc>
-    <lastmod>2020-01-08</lastmod>
+    <lastmod>2020-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb824x464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb825x464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-01825x464.jpg</image:loc>
@@ -37,12 +49,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-05_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-thumb825x464.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-thumb_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb825x464.jpg</image:loc>
@@ -77,6 +83,18 @@
       <image:loc>http://thisislogos.com/images/slapshop-thumb_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb500x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb500x282_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb500x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb500x282_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/thumb-01500x282.jpg</image:loc>
     </image:image>
     <image:image>
@@ -105,12 +123,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-05500x282_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-thumb505x284.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-thumb505x284_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb501x282.jpg</image:loc>
@@ -145,6 +157,18 @@
       <image:loc>http://thisislogos.com/images/slapshop-thumb500x282_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb431x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb431x243_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb431x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb431x243_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/thumb-01431x242.jpg</image:loc>
     </image:image>
     <image:image>
@@ -173,12 +197,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-05431x242_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-thumb431x243.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-thumb431x243_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb433x244.jpg</image:loc>
@@ -213,6 +231,18 @@
       <image:loc>http://thisislogos.com/images/slapshop-thumb431x243_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb334x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb334x188_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb334x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-thumb334x188_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/thumb-01335x188.jpg</image:loc>
     </image:image>
     <image:image>
@@ -241,12 +271,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb-05335x188_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-thumb334x188.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-thumb334x188_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/thumb335x188.jpg</image:loc>
@@ -279,6 +303,12 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/slapshop-thumb335x188_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb491x277_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/genevieve-thumb490x276.jpg</image:loc>
@@ -349,6 +379,12 @@
       <image:loc>http://thisislogos.com/images/slapshop-thumb490x276_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-thumb276x156_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thisislogos.com/images/genevieve-thumb276x156.jpg</image:loc>
     </image:image>
     <image:image>
@@ -415,39 +451,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thisislogos.com/images/slapshop-thumb276x156_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://thisislogos.com/connect.html</loc>
-    <lastmod>2019-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/logos-layout1262x841.jpg</image:loc>
-      <image:caption>Logos stationery image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/logos-layout.jpg</image:loc>
-      <image:caption>Logos stationery image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/logos-layout703x469.jpg</image:loc>
-      <image:caption>Logos stationery image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/logos-layout688x459.jpg</image:loc>
-      <image:caption>Logos stationery image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/logos-layout490x327.jpg</image:loc>
-      <image:caption>Logos stationery image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/logos-layout276x184.jpg</image:loc>
-      <image:caption>Logos stationery image for Logos</image:caption>
     </image:image>
   </url>
   <url>
@@ -971,6 +974,177 @@
     </image:image>
   </url>
   <url>
+    <loc>http://thisislogos.com/genevieve.html</loc>
+    <lastmod>2020-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-hero1680x840.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-011261x709.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-031262x760.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-021261x709.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-041262x1367.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-051262x1367.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-061261x709.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-071261x709.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-081262x710.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-hero1020x511.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-hero880x441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-01701x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-03701x422.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-02701x395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-04701x760.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-05701x760.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-06701x395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-07701x395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-08701x395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-hero688x345.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-01688x387.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-03688x415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-02688x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-04688x746.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-05688x746.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-06688x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-07688x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-08688x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-hero490x246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-01491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-03491x296.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-02491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-04491x532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-05491x532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-06493x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-07491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-08491x277.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-hero278x140.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-01278x157.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-03277x167.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-02277x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-04277x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-05277x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-06281x158.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-07281x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/genevieve-08281x159.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://thisislogos.com/awesomevii.html</loc>
     <lastmod>2020-01-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -1095,8 +1269,329 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thisislogos.com/purnellhines.html</loc>
+    <loc>http://thisislogos.com/connect.html</loc>
+    <lastmod>2019-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout1262x841.jpg</image:loc>
+      <image:caption>Logos stationery image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout.jpg</image:loc>
+      <image:caption>Logos stationery image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout703x469.jpg</image:loc>
+      <image:caption>Logos stationery image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout688x459.jpg</image:loc>
+      <image:caption>Logos stationery image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout490x327.jpg</image:loc>
+      <image:caption>Logos stationery image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/logos-layout276x184.jpg</image:loc>
+      <image:caption>Logos stationery image for Logos</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thisislogos.com/slapshop.html</loc>
     <lastmod>2020-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-hero1680x840.jpg</image:loc>
+      <image:caption>SlapShop hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-011262x710.jpg</image:loc>
+      <image:caption>SlapShop logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-021262x760.jpg</image:loc>
+      <image:caption>SlapShop font and colour image for Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-031262x710.jpg</image:loc>
+      <image:caption>SlapShop logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-051262x710.jpg</image:loc>
+      <image:caption>SlapShop business cards image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-041262x710.jpg</image:loc>
+      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-hero1020x511.jpg</image:loc>
+      <image:caption>SlapShop hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-01.jpg</image:loc>
+      <image:caption>SlapShop logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-02.jpg</image:loc>
+      <image:caption>SlapShop font and colour image for Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-03.jpg</image:loc>
+      <image:caption>SlapShop logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-05.jpg</image:loc>
+      <image:caption>SlapShop business cards image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-04.jpg</image:loc>
+      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-hero880x441.jpg</image:loc>
+      <image:caption>SlapShop hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-01700x394.jpg</image:loc>
+      <image:caption>SlapShop logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-02700x422.jpg</image:loc>
+      <image:caption>SlapShop font and colour image for Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-03700x394.jpg</image:loc>
+      <image:caption>SlapShop logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-05701x395.jpg</image:loc>
+      <image:caption>SlapShop business cards image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-04700x394.jpg</image:loc>
+      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-hero688x345.jpg</image:loc>
+      <image:caption>SlapShop hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-01688x387.jpg</image:loc>
+      <image:caption>SlapShop logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-02688x415.jpg</image:loc>
+      <image:caption>SlapShop font and colour image for Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-03688x387.jpg</image:loc>
+      <image:caption>SlapShop logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-05688x387.jpg</image:loc>
+      <image:caption>SlapShop business cards image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-04688x388.jpg</image:loc>
+      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-hero490x246.jpg</image:loc>
+      <image:caption>SlapShop hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-01490x276.jpg</image:loc>
+      <image:caption>SlapShop logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-02490x296.jpg</image:loc>
+      <image:caption>SlapShop font and colour image for Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-03490x276.jpg</image:loc>
+      <image:caption>SlapShop logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-05490x276.jpg</image:loc>
+      <image:caption>SlapShop business cards image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-04490x276.jpg</image:loc>
+      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-hero276x139.jpg</image:loc>
+      <image:caption>SlapShop hero image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-01276x156.jpg</image:loc>
+      <image:caption>SlapShop logo image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-02276x167.jpg</image:loc>
+      <image:caption>SlapShop font and colour image for Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-03276x156.jpg</image:loc>
+      <image:caption>SlapShop logo colours image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-05276x156.jpg</image:loc>
+      <image:caption>SlapShop business cards image for Logos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/slapshop-04276x156.jpg</image:loc>
+      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thisislogos.com/greenquarter.html</loc>
+    <lastmod>2020-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-00-hero1680x833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-011262x841.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-021262x710.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-031262x710.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-041262x625.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-051262x1100.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-061262x1262.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-00-hero1020x506.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-00-hero880x437.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-01700x467.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-02700x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-03700x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-04700x347.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-05700x611.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-06700x700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-00-hero688x341.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-01639x426.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-02639x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-03639x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-04640x318.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-05639x557.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-06639x639.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-00-hero490x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-01490x327.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-02490x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-03490x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-04490x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-05490x428.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-06490x491.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-00-hero276x137.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-01276x184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-02276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-03276x156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-04276x137.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-05276x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thisislogos.com/images/gq-06276x276.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thisislogos.com/purnellhines.html</loc>
+    <lastmod>2020-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1466,330 +1961,6 @@
     <image:image>
       <image:loc>http://thisislogos.com/images/arete-04276x156.jpg</image:loc>
       <image:caption>Arete website image for Logos</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://thisislogos.com/slapshop.html</loc>
-    <lastmod>2020-01-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-hero1680x840.jpg</image:loc>
-      <image:caption>SlapShop hero image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-011262x710.jpg</image:loc>
-      <image:caption>SlapShop logo image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-021262x760.jpg</image:loc>
-      <image:caption>SlapShop font and colour image for Logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-031262x710.jpg</image:loc>
-      <image:caption>SlapShop logo colours image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-051262x710.jpg</image:loc>
-      <image:caption>SlapShop business cards image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-041262x710.jpg</image:loc>
-      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-hero1020x511.jpg</image:loc>
-      <image:caption>SlapShop hero image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-01.jpg</image:loc>
-      <image:caption>SlapShop logo image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-02.jpg</image:loc>
-      <image:caption>SlapShop font and colour image for Logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-03.jpg</image:loc>
-      <image:caption>SlapShop logo colours image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-05.jpg</image:loc>
-      <image:caption>SlapShop business cards image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-04.jpg</image:loc>
-      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-hero880x441.jpg</image:loc>
-      <image:caption>SlapShop hero image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-01700x394.jpg</image:loc>
-      <image:caption>SlapShop logo image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-02700x422.jpg</image:loc>
-      <image:caption>SlapShop font and colour image for Logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-03700x394.jpg</image:loc>
-      <image:caption>SlapShop logo colours image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-05701x395.jpg</image:loc>
-      <image:caption>SlapShop business cards image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-04700x394.jpg</image:loc>
-      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-hero688x345.jpg</image:loc>
-      <image:caption>SlapShop hero image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-01688x387.jpg</image:loc>
-      <image:caption>SlapShop logo image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-02688x415.jpg</image:loc>
-      <image:caption>SlapShop font and colour image for Logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-03688x387.jpg</image:loc>
-      <image:caption>SlapShop logo colours image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-05688x387.jpg</image:loc>
-      <image:caption>SlapShop business cards image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-04688x388.jpg</image:loc>
-      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-hero490x246.jpg</image:loc>
-      <image:caption>SlapShop hero image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-01490x276.jpg</image:loc>
-      <image:caption>SlapShop logo image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-02490x296.jpg</image:loc>
-      <image:caption>SlapShop font and colour image for Logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-03490x276.jpg</image:loc>
-      <image:caption>SlapShop logo colours image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-05490x276.jpg</image:loc>
-      <image:caption>SlapShop business cards image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-04490x276.jpg</image:loc>
-      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-hero276x139.jpg</image:loc>
-      <image:caption>SlapShop hero image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-01276x156.jpg</image:loc>
-      <image:caption>SlapShop logo image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-02276x167.jpg</image:loc>
-      <image:caption>SlapShop font and colour image for Logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-03276x156.jpg</image:loc>
-      <image:caption>SlapShop logo colours image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-05276x156.jpg</image:loc>
-      <image:caption>SlapShop business cards image for Logos</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/slapshop-04276x156.jpg</image:loc>
-      <image:caption>SlapShop tshirt tag image for Logos</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://thisislogos.com/genevieve.html</loc>
-    <lastmod>2020-01-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/pasted-svg-292x130.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-hero1680x840.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-011261x709.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-031262x760.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-021261x709.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-041262x1367.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-051262x1367.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-061261x709.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-071261x709.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-081262x710.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-hero1020x511.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-03.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-04.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-05.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-06.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-07.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-08.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-hero880x441.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-01701x394.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-03701x422.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-02701x395.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-04701x760.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-05701x760.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-06701x395.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-07701x395.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-08701x395.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-hero688x345.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-01688x387.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-03688x415.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-02688x388.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-04688x746.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-05688x746.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-06688x388.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-07688x388.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-08688x388.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-hero490x246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-01491x277.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-03491x296.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-02491x277.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-04491x532.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-05491x532.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-06493x278.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-07491x277.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-08491x277.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-hero278x140.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-01278x157.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-03277x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-02277x156.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-04277x300.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-05277x300.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-06281x158.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-07281x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thisislogos.com/images/genevieve-08281x159.jpg</image:loc>
     </image:image>
   </url>
   <url>
