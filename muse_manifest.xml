@@ -1,43 +1,43 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1585118345851">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thisislogos.com" resolutions="1x,2x" timestamp="1585123146636">
   <folder name="css">
-    <file name="site_global.css" crc="233823287"/>
-    <file name="master_master-contact.css" crc="158825976" ref="connect"/>
-    <file name="nomq_preview_master_master-contact.css" crc="3841879793" ref="connect"/>
-    <file name="master_master.css" crc="4047285507" ref="genevieve:purnellhines:index:greenquarter:arete:logos:awesomevii:slapshop:techgeek:about"/>
-    <file name="nomq_preview_master_master.css" crc="4167279585" ref="genevieve:purnellhines:index:greenquarter:arete:logos:awesomevii:slapshop:techgeek:about"/>
-    <file name="genevieve.css" crc="4042448613" ref="genevieve"/>
-    <file name="nomq_genevieve.css" crc="3953401782" ref="genevieve"/>
-    <file name="iefonts_genevieve.css" crc="3824530138" ref="genevieve"/>
-    <file name="purnellhines.css" crc="3933985708" ref="purnellhines"/>
-    <file name="nomq_purnellhines.css" crc="3902583941" ref="purnellhines"/>
-    <file name="iefonts_purnellhines.css" crc="3824530138" ref="purnellhines"/>
-    <file name="connect.css" crc="3864547556" ref="connect"/>
-    <file name="nomq_connect.css" crc="90567680" ref="connect"/>
-    <file name="iefonts_connect.css" crc="3824530138" ref="connect"/>
-    <file name="index.css" crc="172842673" ref="index"/>
-    <file name="nomq_index.css" crc="4122031136" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="greenquarter.css" crc="383207750" ref="greenquarter"/>
-    <file name="nomq_greenquarter.css" crc="4209800924" ref="greenquarter"/>
-    <file name="iefonts_greenquarter.css" crc="3824530138" ref="greenquarter"/>
-    <file name="arete.css" crc="4227961959" ref="arete"/>
-    <file name="nomq_arete.css" crc="4127707161" ref="arete"/>
-    <file name="iefonts_arete.css" crc="3824530138" ref="arete"/>
-    <file name="logos.css" crc="4281770937" ref="logos"/>
-    <file name="nomq_logos.css" crc="3836423030" ref="logos"/>
-    <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
-    <file name="awesomevii.css" crc="467426510" ref="awesomevii"/>
-    <file name="nomq_awesomevii.css" crc="4240543625" ref="awesomevii"/>
-    <file name="iefonts_awesomevii.css" crc="3824530138" ref="awesomevii"/>
-    <file name="slapshop.css" crc="3923547749" ref="slapshop"/>
-    <file name="nomq_slapshop.css" crc="518292511" ref="slapshop"/>
-    <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
-    <file name="techgeek.css" crc="291315465" ref="techgeek"/>
-    <file name="nomq_techgeek.css" crc="291710980" ref="techgeek"/>
-    <file name="iefonts_techgeek.css" crc="3824530138" ref="techgeek"/>
-    <file name="about.css" crc="265450731" ref="about"/>
-    <file name="nomq_about.css" crc="253306072" ref="about"/>
+    <file name="site_global.css" crc="115743811"/>
+    <file name="master_master-contact.css" crc="256523420" ref="connect"/>
+    <file name="nomq_preview_master_master-contact.css" crc="3921132013" ref="connect"/>
+    <file name="master_master.css" crc="3790254871" ref="about:genevieve:purnellhines:index:greenquarter:arete:logos:awesomevii:slapshop:techgeek"/>
+    <file name="nomq_preview_master_master.css" crc="4276798705" ref="about:genevieve:purnellhines:index:greenquarter:arete:logos:awesomevii:slapshop:techgeek"/>
+    <file name="about.css" crc="3869162569" ref="about"/>
+    <file name="nomq_about.css" crc="3912401575" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="genevieve.css" crc="504551740" ref="genevieve"/>
+    <file name="nomq_genevieve.css" crc="114964192" ref="genevieve"/>
+    <file name="iefonts_genevieve.css" crc="3824530138" ref="genevieve"/>
+    <file name="purnellhines.css" crc="4068036801" ref="purnellhines"/>
+    <file name="nomq_purnellhines.css" crc="188476688" ref="purnellhines"/>
+    <file name="iefonts_purnellhines.css" crc="3824530138" ref="purnellhines"/>
+    <file name="connect.css" crc="3939300375" ref="connect"/>
+    <file name="nomq_connect.css" crc="4027939456" ref="connect"/>
+    <file name="iefonts_connect.css" crc="3824530138" ref="connect"/>
+    <file name="index.css" crc="248069045" ref="index"/>
+    <file name="nomq_index.css" crc="384587029" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="greenquarter.css" crc="11518244" ref="greenquarter"/>
+    <file name="nomq_greenquarter.css" crc="3923448802" ref="greenquarter"/>
+    <file name="iefonts_greenquarter.css" crc="3824530138" ref="greenquarter"/>
+    <file name="arete.css" crc="4260222060" ref="arete"/>
+    <file name="nomq_arete.css" crc="4283111490" ref="arete"/>
+    <file name="iefonts_arete.css" crc="3824530138" ref="arete"/>
+    <file name="logos.css" crc="3878697664" ref="logos"/>
+    <file name="nomq_logos.css" crc="4139507077" ref="logos"/>
+    <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
+    <file name="awesomevii.css" crc="3886194458" ref="awesomevii"/>
+    <file name="nomq_awesomevii.css" crc="4103784512" ref="awesomevii"/>
+    <file name="iefonts_awesomevii.css" crc="3824530138" ref="awesomevii"/>
+    <file name="slapshop.css" crc="4172493160" ref="slapshop"/>
+    <file name="nomq_slapshop.css" crc="3853097048" ref="slapshop"/>
+    <file name="iefonts_slapshop.css" crc="3824530138" ref="slapshop"/>
+    <file name="techgeek.css" crc="4291962950" ref="techgeek"/>
+    <file name="nomq_techgeek.css" crc="225113464" ref="techgeek"/>
+    <file name="iefonts_techgeek.css" crc="3824530138" ref="techgeek"/>
   </folder>
   <folder name="assets">
     <file name="-28-preloader.svg" crc="3952127654" seo="true" mt="1522941756000"/>
@@ -62,73 +62,73 @@
   <folder name="images">
     <file name="favicon.ico" crc="230785578" ref="index"/>
     <file name="pasted-svg-292x130.svg" crc="77924827" seo="true" ref="index:awesomevii:about:connect:logos:techgeek:purnellhines:arete:slapshop:genevieve:greenquarter">
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="logos" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
       <caption webpage="awesomevii" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="purnellhines" alt=""/>
-      <caption webpage="greenquarter" alt=""/>
-      <caption webpage="greenquarter" alt=""/>
-      <caption webpage="greenquarter" alt=""/>
-      <caption webpage="greenquarter" alt=""/>
-      <caption webpage="greenquarter" alt=""/>
-      <caption webpage="greenquarter" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="techgeek" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="connect" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
-      <caption webpage="arete" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="logos" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
       <caption webpage="slapshop" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="purnellhines" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="arete" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="greenquarter" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
+      <caption webpage="connect" alt=""/>
       <caption webpage="genevieve" alt=""/>
       <caption webpage="genevieve" alt=""/>
       <caption webpage="genevieve" alt=""/>
       <caption webpage="genevieve" alt=""/>
       <caption webpage="genevieve" alt=""/>
       <caption webpage="genevieve" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="techgeek" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 292x130_poster_.png" crc="3772264425" ref="index"/>
     <file name="gq-thumb824x464.jpg" crc="344145714" seo="true" ref="index">
@@ -1764,15 +1764,15 @@
       <caption webpage="greenquarter" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="50275255" seo="true" mt="1585118155839" redirect="true"/>
-  <file name="awesomevii.html" crc="400658317" seo="true" mt="1578542300791" redirect="true"/>
-  <file name="about.html" crc="368021732" seo="true" mt="1564570315500" redirect="true"/>
-  <file name="connect.html" crc="211176954" seo="true" mt="1562650725843" redirect="true"/>
-  <file name="logos.html" crc="3867332684" seo="true" mt="1578541932781" redirect="true"/>
-  <file name="techgeek.html" crc="342469094" seo="true" mt="1578542091415" redirect="true"/>
-  <file name="purnellhines.html" crc="148384331" seo="true" mt="1585038636694" redirect="true"/>
-  <file name="arete.html" crc="171804480" seo="true" mt="1578542407105" redirect="true"/>
-  <file name="slapshop.html" crc="4025877355" seo="true" mt="1578542450522" redirect="true"/>
-  <file name="genevieve.html" crc="3848823023" seo="true" mt="1585116341670" redirect="true"/>
-  <file name="greenquarter.html" crc="419485816" seo="true" mt="1585116442421" redirect="true"/>
+  <file name="index.html" crc="4050864448" seo="true" mt="1585122985292" redirect="true"/>
+  <file name="awesomevii.html" crc="3855379054" seo="true" mt="1585120824414" redirect="true"/>
+  <file name="about.html" crc="3888278631" seo="true" mt="1585120824414" redirect="true"/>
+  <file name="connect.html" crc="503233747" seo="true" mt="1562650725843" redirect="true"/>
+  <file name="logos.html" crc="3963532209" seo="true" mt="1585120824414" redirect="true"/>
+  <file name="techgeek.html" crc="4226813823" seo="true" mt="1585120824414" redirect="true"/>
+  <file name="purnellhines.html" crc="195827199" seo="true" mt="1585120824414" redirect="true"/>
+  <file name="arete.html" crc="345341307" seo="true" mt="1585120824414" redirect="true"/>
+  <file name="slapshop.html" crc="4148556387" seo="true" mt="1585120824414" redirect="true"/>
+  <file name="genevieve.html" crc="169416092" seo="true" mt="1585120824414" redirect="true"/>
+  <file name="greenquarter.html" crc="4169529547" seo="true" mt="1585120824414" redirect="true"/>
 </manifest>
